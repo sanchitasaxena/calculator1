@@ -20,6 +20,7 @@ def divide(num1, num2):
     """ Return the result of division """
 
     answer = float(num1)/float(num2)
+    # only one of these needs to be a float; an int divided by a float is a float
     return answer
 
 def square(num1):
