@@ -41,4 +41,7 @@ def power(num1, num2):
     return answer
 
 def mod(num1, num2):
-    """ Return the """
+    """ Return the modulous or remainder """
+
+    answer = num1 % num2
+    return answer
