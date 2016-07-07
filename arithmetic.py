@@ -29,10 +29,16 @@ def square(num1):
     return answer
 
 def cube(num1):
-    """ Return the sum """
+    """ Return the cube """
+
+    answer = num1 ** 3
+    return answer
 
 def power(num1, num2):
-    """ Return the sum """
+    """ Return the num1 ^ num2 power """
+
+    answer = num1 ** num2
+    return answer
 
 def mod(num1, num2):
-    """ Return the sum """
+    """ Return the """
