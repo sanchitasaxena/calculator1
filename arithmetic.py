@@ -3,7 +3,8 @@ def add(num1, num2):
     return answer
 
 def subtract(num1, num2):
-    pass
+    answer = num1 - num2
+    return answer
 
 def multiply(num1, num2):
     pass
