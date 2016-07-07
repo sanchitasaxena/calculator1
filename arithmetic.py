@@ -1,25 +1,29 @@
 def add(num1, num2):
-    answer = num1 + num2
-    return answer
+    """ Return the sum """
+
+    return num1 + num2
 
 def subtract(num1, num2):
-    answer = num1 - num2
-    return answer
+    """ Return the difference """
+
+    return num1 - num2
 
 def multiply(num1, num2):
-    pass
+    """ Return the result of multiplication """
+
+    return num1 * num2
 
 def divide(num1, num2):
-    pass
+    """ Return the sum """
 
 def square(num1):
-    pass
+    """ Return the sum """
 
 def cube(num1):
-    pass
+    """ Return the sum """
 
 def power(num1, num2):
-    pass
+    """ Return the sum """
 
 def mod(num1, num2):
-    pass
+    """ Return the sum """
